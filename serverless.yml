@@ -1,3 +1,5 @@
+org: ysoffice
+app: prisma-aws-lambda-example
 service: prisma-aws-lambda-example
 plugins:
   - serverless-dotenv-plugin
